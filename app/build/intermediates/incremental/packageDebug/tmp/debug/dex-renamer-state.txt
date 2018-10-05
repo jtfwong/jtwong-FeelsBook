@@ -1,4 +1,4 @@
-#Thu Oct 04 16:32:53 MDT 2018
-base.0=/Users/Javin/Downloads/jtwong-FeelsBook-master-2/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu Oct 04 21:30:11 MDT 2018
+base.0=/Users/Javin/Documents/Comp_Sci/CMPUT_301/assignment1/jtwong-FeelsBook/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
