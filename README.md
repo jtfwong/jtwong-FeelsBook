@@ -6,3 +6,8 @@ References used to create jtwong-FeelsBook app:
 - Android Developer's basic training (https://developer.android.com/training/basics/firstapp/building-ui)
 
 - Filip Vujovic's tutorial on how to edit TextViews (https://www.youtube.com/watch?v=9ManYWNqKJo)
+
+* Functions that are not working properly or have not been implemented yet include:
+- Initializing a time for each emotion entry
+- Ability to save the edits made to an emotions comment/time
+- Ability to view the count of each emotion
