@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">jtwong-FeelsBook</string>
+    <string name="title_activity_view_records">viewRecords</string>
+    <string name="edit_comment">(Optional) Add comment, up to 100 characters</string>
+    <string name="edit_time">Edit Time</string>
+</resources>

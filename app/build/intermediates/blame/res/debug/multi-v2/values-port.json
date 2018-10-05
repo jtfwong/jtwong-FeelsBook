@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Javin/Documents/Comp_Sci/CMPUT_301/assignment1/jtwong-FeelsBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/Javin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1cc248c3bc76b55406897e6780584931/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
