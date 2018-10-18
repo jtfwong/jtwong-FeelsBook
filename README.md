@@ -9,6 +9,8 @@ References used to create jtwong-FeelsBook app:
 
 - Filip Vujovic's tutorial on how to edit TextViews (https://www.youtube.com/watch?v=9ManYWNqKJo)
 
+*No collaborators for this Assignment
+
 Functions that are not working properly or have not been implemented yet include:
 - Initializing a time for each emotion entry
 - Ability to save the edits made to an emotions comment/time
